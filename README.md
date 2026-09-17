@@ -142,8 +142,4 @@ cd "Mobile Banking App"
 ```text
 com.bank.izbank
 ```
-
-## License
-
-No license file is currently included in this repository. Add a license before distributing or reusing the project publicly.
 # izmobilebanking
